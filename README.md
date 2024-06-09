@@ -8,6 +8,18 @@ Este repositório contém o material de apoio para a Formação PHP da Alura.
 
 ## PHP: Avançando com Arrays, Strings, Função e Web
 
+### Trabalhando com Arrays
+
+    - Introdução
+    - Projeto Inicial do Treinamento
+    - Recapitulando
+    - Lista de Dados
+    - Arrays
+    - Loops em Listas
+    - Usando For
+    - Faça como eu fiz
+    - O que aprendemos?
+
 ## PHP: Manipulando coleções com Arrays
 
 ## PHP: Strings - Manipulando Textos
